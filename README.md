@@ -14,7 +14,7 @@ Gnomintosh BigSur is a customization suite that transforms the Linux GNOME deskt
 <img width="1920" height="1080" alt="Waves Light" src="https://github.com/user-attachments/assets/6b9b7162-9c33-4e74-a027-faf8b9c41c3b" />
 
 ## How to install?
-Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < extensions.dconf then download the wallpaper Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos then download the icons and theme below in "Credits".
+Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < Gnomintosh_extensions.dconf then download the wallpaper Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos then download the icons and theme below in "Credits".
 
 ## Credits
 * https://github.com/vinceliuice/whitesur-gtk-theme
